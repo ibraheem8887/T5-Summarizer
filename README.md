@@ -48,7 +48,7 @@ T5-SUMMARIZER/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/T5-SUMMARIZER.git
+git clone https://github.com/ibraheem8887/T5-SUMMARIZER.git
 cd T5-SUMMARIZER
 ```
 
